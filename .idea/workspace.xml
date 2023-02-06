@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b0039c17-1aa2-42ac-9b27-47eacda6c575" name="Changes" comment="“Project init”">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab_04_02_YearlyMaintenanceCost.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_04_02_YearlyMaintenanceCost.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab_04_03_MonthyCCBalance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_04_03_MonthyCCBalance.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +40,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab_04_02_YearlyMaintenanceCost">
+  <component name="RunManager" selected="Application.Lab_04_03_MonthyCCBalance">
     <configuration name="Lab_04_01_SalesTax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lab_04_01_SalesTax" />
       <module name="Lab_04_Java_Variables" />
@@ -55,6 +55,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab_04_03_MonthyCCBalance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab_04_03_MonthyCCBalance" />
+      <module name="Lab_04_Java_Variables" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Lab_04_Java_Variables" />
@@ -64,6 +71,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab_04_03_MonthyCCBalance" />
         <item itemvalue="Application.Lab_04_02_YearlyMaintenanceCost" />
         <item itemvalue="Application.Lab_04_01_SalesTax" />
         <item itemvalue="Application.Main" />
@@ -107,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675641702091</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="“Project init”">
+      <created>1675642343235</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675642343235</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
