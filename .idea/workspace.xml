@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0039c17-1aa2-42ac-9b27-47eacda6c575" name="Changes" comment="“Project init”">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_04_01_SalesTax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_04_02_YearlyMaintenanceCost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_04_03_MonthyCCBalance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_04_04_EvenOdd.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab_04_02_YearlyMaintenanceCost.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_04_02_YearlyMaintenanceCost.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +40,16 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab_04_01_SalesTax">
+  <component name="RunManager" selected="Application.Lab_04_02_YearlyMaintenanceCost">
     <configuration name="Lab_04_01_SalesTax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lab_04_01_SalesTax" />
+      <module name="Lab_04_Java_Variables" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab_04_02_YearlyMaintenanceCost" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab_04_02_YearlyMaintenanceCost" />
       <module name="Lab_04_Java_Variables" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -61,6 +64,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab_04_02_YearlyMaintenanceCost" />
         <item itemvalue="Application.Lab_04_01_SalesTax" />
         <item itemvalue="Application.Main" />
       </list>
@@ -89,7 +93,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675636715933</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="“Project init”">
+      <created>1675641564036</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675641564036</updated>
+    </task>
+    <task id="LOCAL-00004" summary="“Project init”">
+      <created>1675641702091</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675641702091</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
