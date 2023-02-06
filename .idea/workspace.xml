@@ -44,7 +44,14 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Lab_04_01_SalesTax">
+    <configuration name="Lab_04_01_SalesTax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab_04_01_SalesTax" />
+      <module name="Lab_04_Java_Variables" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Lab_04_Java_Variables" />
@@ -54,6 +61,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab_04_01_SalesTax" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
