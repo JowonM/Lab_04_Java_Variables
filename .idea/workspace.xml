@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0039c17-1aa2-42ac-9b27-47eacda6c575" name="Changes" comment="“Project init”">
-      <change afterPath="$PROJECT_DIR$/src/Lab_05_01_ShipCostCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_05_02_BirthMonth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_05_03_PartyAffiliation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab_05_01_ShipCostCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_05_01_ShipCostCalculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,21 +42,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lab_05_01_ShipCostCalculator">
-    <configuration name="Lab_04_01_SalesTax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab_04_01_SalesTax" />
-      <module name="Lab_04_Java_Variables" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab_04_02_YearlyMaintenanceCost" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab_04_02_YearlyMaintenanceCost" />
-      <module name="Lab_04_Java_Variables" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab_05_03_PartyAffiliation">
     <configuration name="Lab_04_03_MonthyCCBalance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lab_04_03_MonthyCCBalance" />
       <module name="Lab_04_Java_Variables" />
@@ -76,13 +64,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab_05_02_BirthMonth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab_05_02_BirthMonth" />
+      <module name="Lab_04_Java_Variables" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab_05_03_PartyAffiliation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab_05_03_PartyAffiliation" />
+      <module name="Lab_04_Java_Variables" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab_05_03_PartyAffiliation" />
+        <item itemvalue="Application.Lab_05_02_BirthMonth" />
         <item itemvalue="Application.Lab_05_01_ShipCostCalculator" />
         <item itemvalue="Application.Lab_04_04_EvenOdd" />
         <item itemvalue="Application.Lab_04_03_MonthyCCBalance" />
-        <item itemvalue="Application.Lab_04_02_YearlyMaintenanceCost" />
-        <item itemvalue="Application.Lab_04_01_SalesTax" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675643662145</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="“Project init”">
+      <created>1675999833043</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1675999833043</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
