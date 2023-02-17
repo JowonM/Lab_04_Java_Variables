@@ -9,6 +9,8 @@ public class Lab_05_05_NumCompare {
         int inputB = 200;
         //boolean isA = Character.isDigit(inputA);//
 
+        //a nested if statement to show that A VALID NUMBER must be inputed to use tgh
+
         if(((inputA & inputB) >= 0) || ((inputA & inputB) < 0)){
             if(inputA > inputB){
                 System.out.println("Your second input is smaller");

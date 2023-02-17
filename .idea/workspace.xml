@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0039c17-1aa2-42ac-9b27-47eacda6c575" name="Changes" comment="“Project init”">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab_05_03_PartyAffiliation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_05_03_PartyAffiliation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab_05_01_ShipCostCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_05_01_ShipCostCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab_05_02_BirthMonth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_05_02_BirthMonth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab_05_04_TheaterKiosk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_05_04_TheaterKiosk.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lab_05_05_NumCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_05_05_NumCompare.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -180,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676141235375</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="“Project init”">
+      <created>1676606401725</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1676606401725</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
