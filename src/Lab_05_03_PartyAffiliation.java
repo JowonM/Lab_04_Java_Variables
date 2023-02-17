@@ -1,7 +1,10 @@
 public class Lab_05_03_PartyAffiliation {
     public static void main(String[] args) {
+        //the prompt for an input//
         System.out.println("What is your political party affiliation? (D for Democrat / R for Republican / I for Independent / Other for other)");
-        String input = "Googoo gaa gaa";
+        //input with an imaginary scanner object//
+        String input = " ";
+        // if else statements to parse through the input //
         if(input == "D" ){
             System.out.println("You are a Democratic Donkey");
         }

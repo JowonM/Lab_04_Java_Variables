@@ -14,7 +14,7 @@ public class Lab_05_05_NumCompare {
                 System.out.println("Your second input is smaller");
             }
             else if (inputB > inputA) {
-                System.out.println("Your first input is smaller than");
+                System.out.println("Your first input is smaller");
             }
             else if (inputB == inputA) {
                 System.out.println("Your inputs are equal");
