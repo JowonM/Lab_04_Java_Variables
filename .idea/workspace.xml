@@ -42,7 +42,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lab_05_05_NumCompare">
+  <component name="RunManager" selected="Application.Lab_05_04_TheaterKiosk">
     <configuration name="Lab_05_01_ShipCostCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lab_05_01_ShipCostCalculator" />
       <module name="Lab_04_Java_Variables" />
