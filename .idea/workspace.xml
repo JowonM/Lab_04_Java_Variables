@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0039c17-1aa2-42ac-9b27-47eacda6c575" name="Changes" comment="a">
-      <change beforePath="$PROJECT_DIR$/src/Lab_06_04_MetricConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_06_04_MetricConverter.java" afterDir="false" />
-    </list>
+    <list default="true" id="b0039c17-1aa2-42ac-9b27-47eacda6c575" name="Changes" comment="a" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -213,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676840839682</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="a">
+      <created>1676841401100</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1676841401100</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
