@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0039c17-1aa2-42ac-9b27-47eacda6c575" name="Changes" comment="“Project init”">
-      <change beforePath="$PROJECT_DIR$/src/Lab_05_01_ShipCostCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_05_01_ShipCostCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab_05_02_BirthMonth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_05_02_BirthMonth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab_05_04_TheaterKiosk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_05_04_TheaterKiosk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab_05_05_NumCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_05_05_NumCompare.java" afterDir="false" />
+    <list default="true" id="b0039c17-1aa2-42ac-9b27-47eacda6c575" name="Changes" comment="a">
+      <change afterPath="$PROJECT_DIR$/src/Lab_06_01_CtoFConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_06_02_FuelCosts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_06_03_RectangleInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_06_04_MetricConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_06_05_HighorLow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,14 +44,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lab_05_04_TheaterKiosk">
-    <configuration name="Lab_05_01_ShipCostCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab_05_01_ShipCostCalculator" />
-      <module name="Lab_04_Java_Variables" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab_06_01_CtoFConverter">
     <configuration name="Lab_05_02_BirthMonth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lab_05_02_BirthMonth" />
       <module name="Lab_04_Java_Variables" />
@@ -78,13 +73,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab_06_01_CtoFConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab_06_01_CtoFConverter" />
+      <module name="Lab_04_Java_Variables" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab_05_05_NumCompare" />
+        <item itemvalue="Application.Lab_06_01_CtoFConverter" />
         <item itemvalue="Application.Lab_05_04_TheaterKiosk" />
+        <item itemvalue="Application.Lab_05_05_NumCompare" />
         <item itemvalue="Application.Lab_05_03_PartyAffiliation" />
         <item itemvalue="Application.Lab_05_02_BirthMonth" />
-        <item itemvalue="Application.Lab_05_01_ShipCostCalculator" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +190,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676606401725</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="a">
+      <created>1676606974608</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1676606974608</updated>
+    </task>
+    <task id="LOCAL-00015" summary="a">
+      <created>1676607266854</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1676607266854</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -204,6 +220,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="“Project init”" />
-    <option name="LAST_COMMIT_MESSAGE" value="“Project init”" />
+    <MESSAGE value="a" />
+    <option name="LAST_COMMIT_MESSAGE" value="a" />
   </component>
 </project>
