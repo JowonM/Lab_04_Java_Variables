@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0039c17-1aa2-42ac-9b27-47eacda6c575" name="Changes" comment="a">
-      <change afterPath="$PROJECT_DIR$/src/Lab_06_01_CtoFConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_06_02_FuelCosts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_06_03_RectangleInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_06_04_MetricConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_06_05_HighorLow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab_06_02_FuelCosts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_06_02_FuelCosts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab_06_03_RectangleInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_06_03_RectangleInfo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,21 +41,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lab_06_01_CtoFConverter">
-    <configuration name="Lab_05_02_BirthMonth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab_05_02_BirthMonth" />
-      <module name="Lab_04_Java_Variables" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab_05_03_PartyAffiliation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab_05_03_PartyAffiliation" />
-      <module name="Lab_04_Java_Variables" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab_06_03_RectangleInfo">
     <configuration name="Lab_05_04_TheaterKiosk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lab_05_04_TheaterKiosk" />
       <module name="Lab_04_Java_Variables" />
@@ -80,13 +63,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab_06_02_FuelCosts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab_06_02_FuelCosts" />
+      <module name="Lab_04_Java_Variables" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab_06_03_RectangleInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab_06_03_RectangleInfo" />
+      <module name="Lab_04_Java_Variables" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab_06_03_RectangleInfo" />
+        <item itemvalue="Application.Lab_06_02_FuelCosts" />
         <item itemvalue="Application.Lab_06_01_CtoFConverter" />
         <item itemvalue="Application.Lab_05_04_TheaterKiosk" />
         <item itemvalue="Application.Lab_05_05_NumCompare" />
-        <item itemvalue="Application.Lab_05_03_PartyAffiliation" />
-        <item itemvalue="Application.Lab_05_02_BirthMonth" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676607266854</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="a">
+      <created>1676837272888</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1676837272888</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
