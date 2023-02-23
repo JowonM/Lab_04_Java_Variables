@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0039c17-1aa2-42ac-9b27-47eacda6c575" name="Changes" comment="a">
+      <change afterPath="$PROJECT_DIR$/src/Ass01_RockPaperScissors.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab_06_05_HighorLow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_06_05_HighorLow.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,9 +40,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lab_06_05_HighorLow">
-    <configuration name="Lab_06_01_CtoFConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab_06_01_CtoFConverter" />
+  <component name="RunManager" selected="Application.HelloWorldLastName">
+    <configuration name="HelloWorldLastName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorldLastName" />
       <module name="Lab_04_Java_Variables" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HelloWorldLastName" />
         <item itemvalue="Application.Lab_06_05_HighorLow" />
         <item itemvalue="Application.Lab_06_04_MetricConverter" />
         <item itemvalue="Application.Lab_06_03_RectangleInfo" />
         <item itemvalue="Application.Lab_06_02_FuelCosts" />
-        <item itemvalue="Application.Lab_06_01_CtoFConverter" />
       </list>
     </recent_temporary>
   </component>
@@ -228,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676841666041</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="a">
+      <created>1676843086212</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1676843086212</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -246,5 +253,8 @@
     <MESSAGE value="“Project init”" />
     <MESSAGE value="a" />
     <option name="LAST_COMMIT_MESSAGE" value="a" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Lab_04_Java_Variables$HelloWorldLastName.ic" NAME="HelloWorldLastName Coverage Results" MODIFIED="1677124412838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
