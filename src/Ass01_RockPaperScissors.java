@@ -21,11 +21,9 @@ public class Ass01_RockPaperScissors {
 
             System.out.println("Player A, Please input your move...");
             move1 = (playerA.next()).toLowerCase();
-            System.out.println(move1);
 
             System.out.println("Player B, Please input your move...");
             move2 = (playerB.next()).toLowerCase();
-            System.out.println(move2);
 
             if (move1.contains("r") || move1.contains("p") || move1.contains("s")) {
                 if (move2.contains("r") || move2.contains("p") || move2.contains("s")) {
@@ -38,33 +36,45 @@ public class Ass01_RockPaperScissors {
                     }
 
                     if (move1.equalsIgnoreCase("r") && move2.equalsIgnoreCase("p")){
-                        System.out.println(move2 + " covers" + move1 + ", Player B Wins!");
-                        System.out.println("Would you like to play again? (Y/N");
+                        move1 = "Rock";
+                        move2 = "Paper";
+                        System.out.println(move2 + " covers " + move1 + ", Player B Wins!");
+                        System.out.println("Would you like to play again? Y/N");
                         playAgain = play.next();
                     }
                     if (move1.equalsIgnoreCase("p") && move2.equalsIgnoreCase("r")){
+                        move2 = "Rock";
+                        move1 = "Paper";
                         System.out.println(move1 + " covers" + move2 + ", Player A Wins!");
-                        System.out.println("Would you like to play again? (Y/N");
+                        System.out.println("Would you like to play again? Y/N");
                         playAgain = play.next();
                     }
                     if (move1.equalsIgnoreCase("s") && move2.equalsIgnoreCase("p")){
-                        System.out.println(move1 + " cuts " + move2 + ", Player B Wins!");
-                        System.out.println("Would you like to play again? (Y/N");
+                        move1 = "Scissors";
+                        move2 = "Paper";
+                        System.out.println(move1 + " cuts " + move2 + ", Player A Wins!");
+                        System.out.println("Would you like to play again? Y/N");
                         playAgain = play.next();
                     }
                     if (move1.equalsIgnoreCase("p") && move2.equalsIgnoreCase("s")){
+                        move2 = "Scissors";
+                        move1 = "Paper";
                         System.out.println(move2 + " cuts " + move1 + ", Player B Wins!");
-                        System.out.println("Would you like to play again? (Y/N");
+                        System.out.println("Would you like to play again? Y/N");
                         playAgain = play.next();
                     }
                     if (move1.equalsIgnoreCase("s") && move2.equalsIgnoreCase("r")){
+                        move1 = "Scissors";
+                        move2 = "Rock";
                         System.out.println(move2 + " breaks " + move1 + ", Player B Wins!");
-                        System.out.println("Would you like to play again? (Y/N");
+                        System.out.println("Would you like to play again? Y/N");
                         playAgain = play.next();
                     }
                     if (move1.equalsIgnoreCase("r") && move2.equalsIgnoreCase("s")){
-                        System.out.println(move1 + " breaks " + move2 + ", Player B Wins!");
-                        System.out.println("Would you like to play again? (Y/N");
+                        move2 = "Scissors";
+                        move1 = "Rock";
+                        System.out.println(move1 + " breaks " + move2 + ", Player A Wins!");
+                        System.out.println("Would you like to play again? Y/N");
                         playAgain = play.next();
                     }
                 }
