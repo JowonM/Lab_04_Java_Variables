@@ -11,14 +11,14 @@ public class Ass01_RockPaperScissors {
 
         System.out.println("Would you like to play Rock, Paper, And Scissors? (please enter Y/N)");
         System.out.println("The valid moves are (R/P/S) or (r/p/s)");
-
+//scanner for the play again variable//
         Scanner play = new Scanner(System.in);
         playAgain = play.next();
 
 
-
+//do while loop for the actual game//
         while(playAgain.equalsIgnoreCase("Y")) {
-
+//inputs changed to lower case for easier usage//
             System.out.println("Player A, Please input your move...");
             move1 = (playerA.next()).toLowerCase();
 
