@@ -18,7 +18,7 @@ public class Ass01_RockPaperScissors {
 
 //do while loop for the actual game//
         while(playAgain.equalsIgnoreCase("Y")) {
-//inputs changed to lower case for easier usage//
+//inputs changed to lower case for easy usage//
             System.out.println("Player A, Please input your move...");
             move1 = (playerA.next()).toLowerCase();
 
@@ -82,7 +82,7 @@ public class Ass01_RockPaperScissors {
 
             else {
                 System.out.println("Please enter a valid input");
-                break;
+
             }
         }
 
