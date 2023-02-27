@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b0039c17-1aa2-42ac-9b27-47eacda6c575" name="Changes" comment="a">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ass01_RockPaperScissors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ass01_RockPaperScissors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GetLoopy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GetLoopy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +40,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ass01_RockPaperScissors">
+  <component name="RunManager" selected="Application.GetLoopy">
     <configuration name="Ass01_RockPaperScissors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ass01_RockPaperScissors" />
       <module name="Lab_04_Java_Variables" />
@@ -78,9 +78,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GetLoopy" />
         <item itemvalue="Application.Ass01_RockPaperScissors" />
         <item itemvalue="Application.Lab_06_01_CtoFConverter" />
-        <item itemvalue="Application.GetLoopy" />
         <item itemvalue="Application.HelloWorldLastName" />
         <item itemvalue="Application.Lab_06_05_HighorLow" />
       </list>
@@ -270,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677286592399</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="a">
+      <created>1677457015476</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1677457015478</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
