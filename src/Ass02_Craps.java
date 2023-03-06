@@ -37,6 +37,7 @@ public class Ass02_Craps
 
 
                 System.out.println("You hit the point! Rolling Again...");
+                //second do-while loop//
                 do {
 
                     int d3 = rnd.nextInt(6) + 1;
